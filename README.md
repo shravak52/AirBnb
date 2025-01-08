@@ -14,7 +14,7 @@ Installation
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/yourusername/airbnb-clone-app.git
+git clone https://github.com/shravak52/AirBnb.git
 Open the project in Xcode.
 Build and run the app on an iOS simulator or a physical device.
 
